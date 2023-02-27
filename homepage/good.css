@@ -1,0 +1,36 @@
+body {
+    align-items: center;
+    text-align: left;
+    padding: 150px;
+    background-image: url("images/good-background.jpg");
+    background-size: cover;
+}
+img {
+    width: 40%;
+    padding-left: 250px;
+}
+.col {
+    flex: 50%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+h1 {
+    font-family: "Cambria", serif;
+    font-size: 48px;
+    text-align: center;
+}
+h2 {
+    font-family: "Cambria", serif;
+    font-size: 36px;
+    text-align: center;
+    text-align: left;
+}
+p {
+    font-family: "Cambria", serif;
+    font-size: 24px;
+}
+section {
+    display: flex;
+    align-items: center;
+}

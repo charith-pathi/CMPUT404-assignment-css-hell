@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+    color: white;
+    text-align: center;
+    background-image: url("images/ugly-background.jpg");
+    background-size: cover;
+}
+img {
+    width: 20%;
+}
+
+h1, h2, p {
+    font-family: "Comic Sans MS", cursive;
+}
